@@ -43,4 +43,4 @@ To develop a lightweight and efficient tool that helps users verify the authenti
 
 ---
 
-## developed by Panendra Rao. J
+## Developed by Panendra Rao. J
