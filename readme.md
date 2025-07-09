@@ -43,9 +43,4 @@ To develop a lightweight and efficient tool that helps users verify the authenti
 
 ---
 
-## 🖥️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
-   cd fake-news-detection
+## developed by Panendra Rao. J
